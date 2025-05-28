@@ -1,4 +1,4 @@
-linux-etc-file
+dotfiles for env config
 ==============
 
-linux operating system etc file
+env config files 
